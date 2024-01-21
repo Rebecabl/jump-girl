@@ -1,1 +1,1 @@
-Este é um projeto em desenvolvimento de um pequeno jogo no estilo "Jump", que está sendo criado com as linguagens de programação JavaScript, CSS e HTML.
+This is a project in development of a small "Jump" style game, which is being created with the JavaScript, CSS and HTML programming languages.
